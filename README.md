@@ -1,94 +1,48 @@
-# 👋 Hi, I'm Naeem
+<h1 align="center">Hi 👋 I'm Naeem</h1>
 
-🚀 Junior Server Administrator | Backend Developer | Linux Enthusiast  
-💼 5+ Years Experience in Hosting & Server Industry  
-🌍 Passionate about Automation, Infrastructure & Backend Systems  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Linux+Enthusiast;Go+Backend+Developer;Automation+Builder;Infrastructure+Mindset" />
+</p>
 
----
-
-## 🔥 About Me
-
-I am a Linux-focused Server Administrator with strong interest in backend development and infrastructure automation.
-
-- 🐧 Linux System Administration (Production Level)
-- 🌐 Web Hosting & VPS/Dedicated Infrastructure Management
-- 🔐 Server Security & Hardening
-- ⚙️ Automation with Bash & Go
-- 🐳 Docker & Containerization
-- 📊 Server Monitoring & Metrics Collection
-- 🏗 REST API Development (Golang)
-
-I enjoy building stable, secure, and automated systems.
+<p align="center">
+  ⚡ Automating Infrastructure | Securing Systems | Building Backend Tools
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 🧠 Core Focus
 
-### 💻 Operating Systems
-- Linux (AlmaLinux, Ubuntu, CentOS)
-- Windows Server (Basic)
-
-### 🖥 Hosting & Server
-- cPanel / WHM, Webuzo, Cyber Panel, aaPanel
-- VPS/Dedicated Server Management
-- WordPress Hosting Infrastructure
-- DNS & Basic Networking
-
-### 👨‍💻 Programming
-- Go (Golang)
-- Bash Scripting
-- JavaScript (React – Frontend)
-
-### 🗄 Databases
-- PostgreSQL
-- MySQL
-
-### 🐳 DevOps & Tools
-- Docker
-- Git & GitHub
-- REST APIs
-- Basic CI/CD
+<p align="center">
+🐧 Linux & Servers &nbsp; • &nbsp; 🐹 Go & APIs &nbsp; • &nbsp; ⚙️ Automation &nbsp; • &nbsp; 🐳 Containers &nbsp; • &nbsp; 🔐 Security
+</p>
 
 ---
 
-## 🚀 Current Projects
+### 📊 GitHub Stats
 
-- 🔹 Server Monitoring System (Agent → API → Database)
-- 🔹 Custom Backup CLI Tool (Golang)
-- 🔹 Hosting Automation Scripts
-- 🔹 n8n Container-Based Hosting Setup
-- 🔹 Responsive React Portfolio Website
-
----
-
-## 📈 Currently Learning
-
-- Advanced Networking
-- Security & Hardening
-- Scalable Backend Architecture
-- Writing Production-Ready Bash & Go Scripts
-- DevOps Best Practices
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=entnaeem&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=entnaeem&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
 
 ---
 
-## 🎯 2026 Goals
+### 🔥 Streak Stats
 
-- Become Advanced System Administrator
-- Build Production-Ready Monitoring SaaS
-- Master Backend Engineering with Go
-- Develop Fully Automated Hosting Infrastructure
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://naeem.info
-- 📧 Email: hello@naeem.info
-- 🔗 LinkedIn: https://www.linkedin.com/in/entnaeem/
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=entnaeem&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
-## 💡 Personal Motto
+### 👀 Visitors
 
-> Automate everything that is repeatable.  
-> Secure everything that is exposed.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=entnaeem&color=blueviolet&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+🚀 Building Secure & Automated Systems Since 2019
+</p>
